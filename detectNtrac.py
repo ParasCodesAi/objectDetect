@@ -1,3 +1,4 @@
+# code to detect and track people
 import jetson.inference
 import jetson.utils
 import time
