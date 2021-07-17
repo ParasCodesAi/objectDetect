@@ -9,7 +9,7 @@ import imutils
 import dlib
 
 
-#some constants
+#some constants - hello world
 input_URI = "peds.mp4"
 threshold = 0.5
 network = "ssd-mobilenet-v2"
